@@ -1,3 +1,0 @@
-RGBLIGHT_ENABLE = no        # Enable WS2812 RGB underlight.
-TAP_DANCE_ENABLE = no
-BACKLIGHT_ENABLE = yes
