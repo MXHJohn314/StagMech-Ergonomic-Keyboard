@@ -11,7 +11,6 @@
 #define SPLIT_HAND_PIN F0
 #define SOFT_SERIAL_PIN D0
 #define SELECT_SOFT_SERIAL_SPEED 1
-#define MASTER_LEFT
 
 #define MATRIX_COL_PINS { D5, F1, F4, F5, F6, F7, B0,B1 }
 #define MATRIX_ROW_PINS { D7, B4, B5, B6, C6, C7  }
