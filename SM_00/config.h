@@ -1,6 +1,6 @@
 #pragma once
 #define MATRIX_ROWS 12
-#define MATRIX_COLS 18
+#define MATRIX_COLS 16
 #define VENDOR_ID       0xA1A1
 #define PRODUCT_ID      0x0001
 #define DEVICE_VER      0x0001
